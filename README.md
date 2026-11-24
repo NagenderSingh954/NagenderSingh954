@@ -6,7 +6,6 @@ I'm a passionate Full-Stack Developer who loves building things for the web and 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nagender.s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nagender-singh-3a4b89221/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagendersingh954@gmail.com) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack
 
 <div align="center">
 
@@ -29,7 +28,12 @@ I'm a passionate Full-Stack Developer who loves building things for the web and 
 
 </div>
 
-<div align="center" style="margin-top: 50px;">
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div align="center" style="margin-top: 500px;">
 
 ![](https://github-readme-stats.shion.dev/api?username=NagenderSingh954&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -38,5 +42,3 @@ I'm a passionate Full-Stack Developer who loves building things for the web and 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NagenderSingh954&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
